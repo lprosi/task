@@ -1,2 +1,3 @@
-yes
-GOOD AND BAD DAYS
+GOOD DAY
+bad days
+
